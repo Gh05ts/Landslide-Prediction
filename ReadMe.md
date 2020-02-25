@@ -1,4 +1,4 @@
-# Landslide Prediction
+# Landslide Prediction (IoT)
 
 In this project, I used the Arduino Uno board along with Sim900a, MPU-6050 (6 DOF MEMS Sensor), Capacitive Soil Moisture sensor to record the data of soil conditions and send it to the cloud, using Thingspeak API.
 
